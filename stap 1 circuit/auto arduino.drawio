@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2022-04-06T07:55:12.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="pglGRKhK4rzoztYa3-3T" version="17.4.0" type="github">
+  <diagram id="atjPza35tR8Q2ZRvLUmr" name="Page-1">
+    <mxGraphModel dx="496" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jwgFXV7k5ryIXu8Y0rId-26" value="3. Obstacle avoiding&lt;br&gt;Digital 12" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwgFXV7k5ryIXu8Y0rId-27" value="6. Line tracking&lt;br&gt;Analoog 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwgFXV7k5ryIXu8Y0rId-28" value="7.&amp;nbsp; Obstacle avoiding range&lt;br&gt;Analoog 5" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwgFXV7k5ryIXu8Y0rId-39" target="vF46WPgjCu5RCyMJPEAj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jwgFXV7k5ryIXu8Y0rId-39" target="vF46WPgjCu5RCyMJPEAj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwgFXV7k5ryIXu8Y0rId-39" value="8. Motor driver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-2" value="Stap 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF46WPgjCu5RCyMJPEAj-5" target="vF46WPgjCu5RCyMJPEAj-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF46WPgjCu5RCyMJPEAj-5" target="vF46WPgjCu5RCyMJPEAj-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-5" value="Left motor" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vF46WPgjCu5RCyMJPEAj-6" target="vF46WPgjCu5RCyMJPEAj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF46WPgjCu5RCyMJPEAj-6" target="vF46WPgjCu5RCyMJPEAj-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-6" value="Right motor" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-10" value="Vooruit&lt;br&gt;BIN2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-11" value="Achteruit&lt;br&gt;BIN1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-17" value="Vooruit&lt;br&gt;BIN3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF46WPgjCu5RCyMJPEAj-20" value="Achteruit&lt;br&gt;BIN4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
